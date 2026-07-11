@@ -1,12 +1,11 @@
-# Russell Spangler — Writing & Editorial Portfolio
+# Writing & Editorial Portfolio
 
-This repository collects writing, editing, layout, and document-design samples from
-my work in infrastructure and environmental consulting (primarily with Gannett
-Fleming).
+This portfolio collects writing, editing, layout, and document-design samples from
+my work in AEC industry government contracting.
 
-## How this repo is organized
+## Portfolio Organization
 
-Files are grouped by **type of deliverable** rather than by project:
+Files are grouped by type of example:
 
 | Folder | Contents |
 |---|---|
