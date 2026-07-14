@@ -9,6 +9,7 @@ Files are grouped by type of example:
 
 | Folder | Contents |
 |---|---|
+| [Editorial_Samples](https://github.com/rspangler84/rspangler84.github.io/tree/main/Editorial_Samples) | Redlined editing samples (comments and tracked changes visible) demonstrating editorial process on original, illustrative content |
 | [Writing_Samples](https://github.com/rspangler84/rspangler84.github.io/tree/main/Writing_Samples) | Curated excerpts with my own notes on what I specifically contributed (writing, editing, layout, graphics) |
 | [Work_Flow](https://github.com/rspangler84/rspangler84.github.io/tree/main/Work_Flow) | A numbered walkthrough (draft, layout, client review, print) showing my document production process |
 | [Project_Sheets](https://github.com/rspangler84/rspangler84.github.io/tree/main/Project_Sheets) | One-page project summary sheets |
